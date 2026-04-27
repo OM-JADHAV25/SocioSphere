@@ -173,7 +173,7 @@ npm install
 
 ### Configure environment variables
 
-Create `.env` files for frontend and backend.
+Create `.env` file for backend.
 
 Example:
 
